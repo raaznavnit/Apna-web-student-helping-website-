@@ -2,3 +2,6 @@ Introducing our "Apna web" project, This project offers an easy solution for any
 1.1	GUI IMPLEMENTATIONS
 Login Page:	
 ![image](https://github.com/raaznavnit/Apna-web-student-helping-website-/assets/113350354/b93b2a54-5485-4615-8e8e-f468dd519dde)
+
+Register Page:
+![image](https://github.com/raaznavnit/Apna-web-student-helping-website-/assets/113350354/e0ffc5d1-4bcf-4434-bdfe-0e999a259b0d)
