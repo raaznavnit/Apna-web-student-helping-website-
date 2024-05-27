@@ -5,3 +5,28 @@ Login Page:
 
 Register Page:
 ![image](https://github.com/raaznavnit/Apna-web-student-helping-website-/assets/113350354/e0ffc5d1-4bcf-4434-bdfe-0e999a259b0d)
+
+Home page:
+![image](https://github.com/raaznavnit/Apna-web-student-helping-website-/assets/113350354/eadce77f-ebca-4ebc-b494-21c0b2781354)
+
+Software page:
+![image](https://github.com/raaznavnit/Apna-web-student-helping-website-/assets/113350354/0b8e10ca-d7ef-4718-b13d-a742627fb76e)
+![image](https://github.com/raaznavnit/Apna-web-student-helping-website-/assets/113350354/b32f7336-2f29-418e-bdaf-8c39a40bb3ce)
+![image](https://github.com/raaznavnit/Apna-web-student-helping-website-/assets/113350354/c9e78a57-3f71-4159-b836-59b2728663d9)
+![image](https://github.com/raaznavnit/Apna-web-student-helping-website-/assets/113350354/c855fa4e-5e58-4f2b-87b7-a2bab6b8a30b)
+
+Manual page:
+![image](https://github.com/raaznavnit/Apna-web-student-helping-website-/assets/113350354/87bdbe8d-9d5f-49b7-aa51-25bdb2f8ffa8)
+![image](https://github.com/raaznavnit/Apna-web-student-helping-website-/assets/113350354/436d8ab4-ff1c-4d67-b144-8e2cd6e53df4)
+![image](https://github.com/raaznavnit/Apna-web-student-helping-website-/assets/113350354/3c036482-c4a8-43cc-a7b7-ad2f707187c2)
+![image](https://github.com/raaznavnit/Apna-web-student-helping-website-/assets/113350354/7db23891-74af-4c07-9b7c-1af2e0bb2f99)
+
+
+
+
+
+
+
+
+
+
